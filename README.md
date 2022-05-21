@@ -1,6 +1,6 @@
 # Criando um app de cartão de visitas em Kotlin
 
-Source code of "Criando um app para apresentar seu portfólio do HitHub" course, created by [Ezequiel Messore](https://github.com/ezequielmessore) and [Digital Innovation One](https://web.dio.me)
+Source code of "Criando um app para apresentar seu portfólio do GitHub" course, created by [Ezequiel Messore](https://github.com/ezequielmessore) and [Digital Innovation One](https://web.dio.me)
 
 ## Covered concepts
 
