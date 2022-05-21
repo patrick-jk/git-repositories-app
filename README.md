@@ -2,7 +2,7 @@
 
 Source code of "Criando um app para apresentar seu portfólio do HitHub" course, created by [Ezequiel Messore](https://github.com/ezequielmessore) and [Digital Innovation One](https://web.dio.me)
 
-## Concepts addressed
+## Covered concepts
 
 - LiveData
 - Koin (Kotlin Dependency Injection)
